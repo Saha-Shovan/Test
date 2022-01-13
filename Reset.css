@@ -1,0 +1,23 @@
+*{margin: 0 auto;
+padding: 16;
+}
+body{background-image: url('Reset.jpg');background-repeat: no-repeat; background-size: cover; background-attachment: fixed;}
+
+.container{
+    width: 200px;
+    height: 150px;
+    border: 5px solid rgb(251, 251, 251) ;
+    border-radius: 10px;
+    padding: 18px;
+    margin: 10px;
+    color: blanchedalmond;
+   position: absolute;
+   top: 35%;
+right: 35%;
+background: #141e23;
+}
+.image{ height: 100px; 
+    top:20%;
+    right: 15%;
+
+}

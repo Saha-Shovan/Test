@@ -1,0 +1,40 @@
+*{ margin: 0;
+padding: 0px;
+}
+.container{
+    width: 250px;
+    margin: 15%, auto; 
+    padding: 15%;
+}
+
+body{background:url(https://assets.new.siemens.com/siemens/assets/api/uuid:79f8d98b-c962-4f74-8469-1649f2304fda/width:1920/quality:high/aibackgroundpicolo.gif);
+    font-family: 'Cinzel', serif;
+font-family: 'Cinzel Decorative', cursive;
+    color: rgba(228, 62, 62, 0.651);
+    background-repeat: no-repeat;
+    background-size: cover;}
+    .login-section img{
+
+    }
+    .login-section h2{
+
+    }
+.form-control{ 
+    width: 230px;
+    height: 22px;
+    padding: 5px
+}
+.submit-btn{
+    margin: 0 auto;
+    display:block;
+padding:3%;
+background-color: #88cd8a;
+border-radius: 10px;
+cursor: pointer;
+transition: 0.6s ease-in-out;
+
+}
+.submit-btn:hover{ 
+    background: turquoise;
+box-shadow: 2px 4px 7px turquoise;
+}
